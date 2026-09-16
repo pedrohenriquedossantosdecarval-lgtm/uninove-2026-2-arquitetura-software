@@ -39,3 +39,5 @@ git config --global user.email "Pedrocarvalho.santos@uni9.edu.br"
 git clone https://github.com/SEU-USUARIO/uninove-2026-2-rota-sul.git
 cd uninove-2026-2-rota-sul
 git remote -v
+
+./mvnw spring-boot:run
