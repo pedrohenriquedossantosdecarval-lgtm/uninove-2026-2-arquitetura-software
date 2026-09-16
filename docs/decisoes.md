@@ -2,3 +2,8 @@
 
 | Problema | Escolha | Tipo | Justificativa |
 |---|---|---|---|
+
+
+
+
+
