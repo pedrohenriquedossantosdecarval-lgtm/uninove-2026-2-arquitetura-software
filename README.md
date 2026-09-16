@@ -32,3 +32,10 @@ E acessar `http://localhost:8000/` no navegador.
 
 O andamento do trabalho, a ordem de leitura recomendada e o que falta
 construir estão em `docs/ANDAMENTO.md`.
+
+git --version
+git config --global user.name "Pedro Henrique dos Santos de Carvalho"
+git config --global user.email "Pedrocarvalho.santos@uni9.edu.br"
+git clone https://github.com/SEU-USUARIO/uninove-2026-2-rota-sul.git
+cd uninove-2026-2-rota-sul
+git remote -v
